@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    border: 2px solid black;
+    margin: 30px 380px;
+}
+h1{
+    font-size: 40px;
+    color:blueviolet;
+}
+.flex-1{
+    display: flex;
+    justify-content: center;
+
+}
+#timer-1{
+   padding: 30px 30px;
+   font-size: 50px;
+   font-family: 'Orbitron', sans-serif;
+}
+#timer-2{
+    padding:30px 30px;
+    font-size: 50px;
+    font-family: 'Orbitron', sans-serif;
+}
+#swp-button{
+    margin-top: 60px;
+    padding: 10px 30px;
+    margin-bottom: 40px;
+    font-size: 17px;
+    border-radius: 8px;
+}
+.sr-button button{
+    padding: 10px 30px;
+    margin: 20px 80px;
+    border-radius: 8px;
+    font-size: 17px;
+
+}
+
+
